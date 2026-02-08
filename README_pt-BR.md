@@ -25,7 +25,7 @@
 
 ## 🎯 Visão Geral
 
-O é uma solução completa para análise de padrões semânticos discriminativos em ligações de vendas. Diferente das versões anteriores, V3 introduz:
+Solução  para análise de padrões semânticos discriminativos em ligações de vendas. 
 
 ### ✨ Principais Características
 

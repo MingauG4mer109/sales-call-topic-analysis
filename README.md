@@ -17,9 +17,9 @@ Escolha seu idioma / Choose your language:
 
 ## 📋 Sobre / About
 
-Esta é uma solução completa para análise de padrões semânticos discriminativos em ligações de vendas, utilizando análise multiview de embeddings e técnicas avançadas de aprendizado de máquina.
+Esta é uma solução para análise de padrões semânticos discriminativos em ligações de vendas, utilizando análise multiview de embeddings e técnicas avançadas de aprendizado de máquina.
 
-This is a complete solution for analyzing discriminative semantic patterns in sales calls, using multiview embedding analysis and advanced machine learning techniques.
+This is a solution for analyzing discriminative semantic patterns in sales calls, using multiview embedding analysis and advanced machine learning techniques.
 
 ---
 

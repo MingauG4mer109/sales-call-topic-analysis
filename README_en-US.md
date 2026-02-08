@@ -25,7 +25,7 @@
 
 ## 🎯 Overview
 
-V3 is a complete solution for analyzing discriminative semantic patterns in sales calls. Unlike previous versions, V3 introduces:
+Solution for analyzing discriminative semantic patterns in sales calls.
 
 ### ✨ Key Features
 
