@@ -1,8 +1,14 @@
 # Semantic Pattern Analysis in Sales Calls
 
-**Version:** 3.0.0  
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤-red.svg)]()
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
+
+**Version:** 1.0.0  
 **Author:** Daniel Nascimento  
-**Date:** 10/2025
+**Date:** February 2026
 
 🇺🇸 English | [🇧🇷 Português](README_pt-BR.md)
 

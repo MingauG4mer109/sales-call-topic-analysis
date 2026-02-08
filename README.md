@@ -1,5 +1,11 @@
 # Análise de Padrões Semânticos em Ligações de Vendas
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤-red.svg)]()
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
+
 **Versão:** 1.0.0  
 **Autor:** Daniel Nascimento  
 **Data:** Fevereiro 2026
