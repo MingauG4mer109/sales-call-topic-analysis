@@ -1,8 +1,8 @@
 # Semantic Pattern Analysis in Sales Calls
 
-**Version:** 1.0.0  
+**Version:** 3.0.0  
 **Author:** Daniel Nascimento  
-**Date:** February 2026
+**Date:** 10/2025
 
 🇺🇸 English | [🇧🇷 Português](README_pt-BR.md)
 
@@ -574,7 +574,7 @@ Implements pattern detection at different conversation phases
 
 ## 📝 License
 
-This project is part of a Bachelor's Thesis (TCC) and is available for academic purposes.
+This project is part of a Post Graduation and is available for academic purposes.
 
 ---
 
@@ -587,5 +587,27 @@ This project is part of a Bachelor's Thesis (TCC) and is available for academic 
 
 ---
 
-**Last Update**: October 2025  
-**Version**: 3.0.0
+## 📄 License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
+**Copyright 2026 Daniel Nascimento**
+
+```
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
+
+---
+
+**Last Update**: February 2026  
+**Version**: 1.0.0

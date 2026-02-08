@@ -60,3 +60,13 @@ For complete documentation, see:
 **Última Atualização / Last Update**: Fevereiro 2026  
 **Versão / Version**: 1.0.0
 
+---
+
+## 📄 Licença / License
+
+Este projeto está licenciado sob a Apache License 2.0 - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
+Copyright 2026 Daniel Nascimento
+
