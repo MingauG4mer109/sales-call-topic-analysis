@@ -6,7 +6,7 @@
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤-red.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
 
-**Version:** 1.0.0  
+**Version:** 3.0.0  
 **Author:** Daniel Nascimento  
 **Date:** February 2026
 
