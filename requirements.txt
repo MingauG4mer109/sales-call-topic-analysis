@@ -1,0 +1,46 @@
+# Core scientific
+numpy==2.0.2
+pandas==2.3.3
+scipy==1.16.2
+scikit-learn==1.7.2
+matplotlib==3.10.6
+
+# PyTorch + embeddings
+torch==2.8.0             # macOS arm64 cp312 wheel
+sentence-transformers==3.2.1
+transformers==4.46.3
+huggingface-hub==0.25.2
+tokenizers==0.20.3
+safetensors==0.4.5
+datasets>=2.14.0
+accelerate>=0.26.0
+transformers>=4.30.0
+einops>=0.8.1
+
+# UMAP/BERTopic stack
+umap-learn==0.5.7
+numba==0.60.0            # needs numpy < 2.1
+llvmlite==0.43.0         # matched to numba 0.60
+pynndescent==0.5.12
+hdbscan==0.8.40
+bertopic==0.16.4
+wordcloud==1.9.3
+
+# Viz for BERTopic HTML
+plotly==5.24.1
+kaleido==0.2.1
+nltk==3.9.1
+seaborn==0.12.2
+
+# Postgres (psycopg v3 binary)
+psycopg[binary]==3.2.5
+
+# Utils
+tqdm==4.67.1
+python-dotenv==1.0.0
+
+# Crypto for DBeaver password decryption
+pycryptodome==3.23.0
+
+# Additional dependencies for new modules
+pandas==2.3.3

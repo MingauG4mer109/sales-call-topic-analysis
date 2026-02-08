@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.Python
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment
+.env
+*.env
+config.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs gerados
+outputs/topics/
+outputs/visualizations/*.html
+outputs/visualizations/*.png
+outputs/plots/
+outputs/data/
+
+# Modelos treinados
+*.pkl
+bertopic_model*/
+*.bin
+
+# Logs
+*.log
+*.log.*
+
+# Arquivos temporários
+*.zip
+*.tmp
